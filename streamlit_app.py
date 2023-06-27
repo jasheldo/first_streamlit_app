@@ -1,3 +1,5 @@
+from urllib.error import URLError
+
 import streamlit
 import pandas as pd
 import requests
